@@ -1,6 +1,7 @@
 add
 Edited in local
 third
+local
 remote
 
 * merge
